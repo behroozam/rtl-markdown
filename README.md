@@ -1,7 +1,17 @@
-# [RTL Markdown](http://guytepper.github.io/rtl-markdown)
+# [RTL Markdown](http://md.behroozam.com)
 
 A simple markdown editor, which supports right-to-left languages.
 
+features currently support:
+* support footnotes with GFM format
+* support emoji
+
+## develope
+```
+npm install
+npm run build
+
+```
 ## Special Tags
 Output text in left-to-right direction:
 
