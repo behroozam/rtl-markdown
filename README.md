@@ -6,7 +6,7 @@ features currently support:
 * support footnotes with GFM format
 * support emoji
 
-## develope
+## Develop
 ```
 npm install
 npm run build
